@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rain
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning python
+- 📫 How to reach me Gmail @wadhwa.gia3@gmail.com
